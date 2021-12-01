@@ -32,7 +32,7 @@ const Home = () => {
   const date = d.getDate();
   const year = d.getFullYear();
   return (
-    <div className="main">
+    <div  className="main">
       <div className="header">
         <h2>TODAY</h2>
       </div>
